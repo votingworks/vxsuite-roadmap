@@ -6,6 +6,9 @@
 
 ### What does a successful outcome of this project look like?
 
+### Timeline
+<!-- Once scoped, what is the rough timeline for this project, is there a specific deadline? --> 
+
 ## Supporting Documentation 
 <!-- Link to supporting documentation, Product Specs, Design Specs, Tech Specs, VVSG language, etc. --> 
 
