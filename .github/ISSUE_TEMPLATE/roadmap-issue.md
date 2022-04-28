@@ -1,14 +1,12 @@
----
-name: Roadmap Issue
-about: Template for a roadmap issue.
-title: ''
-labels: ''
-assignees: ''
+## Team
+<!-- Who are the people responsible for delivering different pieces of this project? -->
 
----
+## Overview
+### What is the feature or problem to solve?
 
-**What is the feature or problem to solve?**
-*Brief description with links to supporting documentation if available.*
+### What does a successful outcome of this project look like?
 
-**Why is it important?**
-*Brief description of why the feature or problem should be prioritized.*
+## Supporting Documentation 
+<!-- Link to supporting documentation, Product Specs, Design Specs, Tech Specs, VVSG language, etc. --> 
+
+## Tasks
